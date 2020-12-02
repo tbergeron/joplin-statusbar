@@ -1,0 +1,10 @@
+{
+	"manifest_version": 1,
+	"id": "com.brainpad.joplin.statusbar",
+	"app_min_version": "1.4",
+	"version": "1.0.0",
+	"name": "Joplin StatusBar",
+	"description": "Adds a status bar to display last sync status without needed any sidebar to be displayed.",
+	"author": "Tommy Bergeron",
+	"homepage_url": "https://brainpad.org/en"
+}
