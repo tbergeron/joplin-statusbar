@@ -15,6 +15,7 @@ The main two files you will want to look at are:
 
 - [ ] Display when sync is in progress
 - [ ] Display when sync has failed
+- [ ] Fix issues when vertically resizing Joplin's window
 
 ## Building the plugin
 
