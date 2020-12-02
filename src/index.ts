@@ -3,7 +3,6 @@ import joplin from 'api';
 joplin.plugins.register({
 	onStart: async function () {
 		const PANELS = joplin.views.panels;
-		const SETTINGS = joplin.settings;
 		const WORKSPACE = joplin.workspace;
 
 		// prepare panel object
