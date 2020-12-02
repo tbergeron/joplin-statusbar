@@ -14,10 +14,13 @@ The main two files you will want to look at are:
 # TODO
 
 - [ ] Display when sync is in progress
+  - Needs API support (is it implemented yet?)
 - [ ] Display when sync has failed
+  - Needs API support (is it implemented yet?)
 - [ ] Fix issues when vertically resizing Joplin's window
   - See if possible to keep a fixed height for that panel
 - [ ] Find a way to merge tags bar with statusbar to save vertical space
+  - Current panels imeplementation could prevent this
 
 ## Building the plugin
 
