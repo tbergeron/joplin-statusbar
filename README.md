@@ -6,15 +6,15 @@ For now it only displays the last sync time.
 
 Its initial purpose is to display last sync time without needed any sidebars enabled.
 
-# TODO
-
-- [ ] Display when sync is in progress
-- [ ] Display when sync has failed
-
 The main two files you will want to look at are:
 
 - `/src/index.ts`, which contains the entry point for the plugin source code.
 - `/src/manifest.json`, which is the plugin manifest. It contains information such as the plugin a name, version, etc.
+
+# TODO
+
+- [ ] Display when sync is in progress
+- [ ] Display when sync has failed
 
 ## Building the plugin
 
